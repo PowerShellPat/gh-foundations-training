@@ -1,4 +1,4 @@
-export GH_USERNAME='powershellpat'
+export GH_USERNAME='XXX'
 export GH_TOKEN='XXX'
 export GH_IMAGE_NAME='gh-foundations-training-hello-world'
 export GH_VER='1.0.1'
